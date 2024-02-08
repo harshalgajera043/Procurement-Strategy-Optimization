@@ -19,7 +19,7 @@ Usage
 
 bash
 Copy code
-git clone https://github.com/your_username/procurement-strategy-optimization.git
+git clone https://github.com/harshalgajera043/procurement-strategy-optimization.git
 
 ## Install dependencies:
 
